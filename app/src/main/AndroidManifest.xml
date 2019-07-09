@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.roby.newsbreakerGo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/newsbreaker"
+        android:label="NewsBreaker"
+        android:roundIcon="@mipmap/newsbreaker"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".cnn"
+            android:screenOrientation="behind" />
+        <activity android:name=".hckr"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".tech"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".idf"
+            android:screenOrientation="portrait"
+            ></activity>
+    </application>
+
+</manifest>
