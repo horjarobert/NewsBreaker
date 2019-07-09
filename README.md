@@ -1,4 +1,6 @@
 --- News Breaker ---
+### Android app ###
+***
 
 # <b><em>Fast</em></b> Demo #
 ![News Breaker app](https://github.com/horjarobert/NewsBreaker/blob/master/NewsBreaker.gif)
