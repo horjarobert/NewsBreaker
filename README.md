@@ -1,7 +1,7 @@
 --- News Breaker ---
 
 # <b><em>Fast</em></b> Demo #
-![News Breaker app](https://github.com/horjarobert/Android_Projects/blob/master/NewsBreaker/NewsBreaker.gif)
+![News Breaker app](https://github.com/horjarobert/NewsBreaker/blob/master/NewsBreaker.gif)
 ***
 
 # 1.Intro #
